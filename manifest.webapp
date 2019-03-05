@@ -1,10 +1,10 @@
 {
 	"version":"1.0.0",
-	"name":"KHIS Tracker Instance",
-	"description":"KHIS Tracker/Event Instance",
+	"name":"KHIS Aggregate Instance",
+	"description":"KHIS Aggregate Instance",
 	"launch_path":"index.html",
 	"icons":{"16":null,
-	"48":"res/khistracker.png",
+	"48":"res/khisaggregate.png",
 	"128":null
 	},
 	"developer":{
